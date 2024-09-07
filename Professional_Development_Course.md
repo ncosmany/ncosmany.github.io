@@ -1,5 +1,5 @@
 # CSPB 3122: Professional Development
-Track my progress throughout the course with weekly entries and documents to showcase my work. 
+Track my progress throughout the course with weekly entries and documents to showcase my work.  
 
 ## Weekly Entries 
 **Week 1 - 8/30/2024**
