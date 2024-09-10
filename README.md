@@ -6,4 +6,6 @@ I am currently pursuing a post-baccalaureate degree in Computer Science at CU Bo
 
 Track my weekly updates below:
 
-[View CSPB Professional Development Project](https://ncosmany.github.io/Professional_Development_Course.md)
+[View CSPB Prfessional Development Project Proposal](https://ncosmany.github.io/Proposal.md)
+[View CSPB Professional Development Project Weekly Updates](https://ncosmany.github.io/Professional_Development_Course.md)
+
