@@ -26,6 +26,6 @@ Specific project goals:
     -My lab contact has not yet used this method but has a colleage who has, so I have someone to ask if I am stuck. There also seems to be good documentation and examples of implementing the package on Github. 
 
 **Project Assessments** - 
-    -Main goal is to confirm that samples are correctly labelled. As I am unsure what timing/scale of the data looks like, I will define success as confirming any number of samples - from one to all. 
+    -My main goal is to confirm that samples are correctly labelled. As I am unsure what timing/scale of the data looks like, I will define success as confirming any number of samples - from one to all. 
 
 **Project portfolio link**: [Project link](https://github.com/ncosmany/ncosmany.github.io.git)
