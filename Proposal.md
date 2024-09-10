@@ -1,4 +1,4 @@
-#Project Proposal#
+# Project Proposal
 
 **Vision statement**: My project is going to be volunteering on a project with an [evolutionary ecology lab](https://lea-lab.org/index.html) for the entirety of the semester. I will be implementing a specific genetic analysis method called [IMAGE](https://github.com/fanyue322/IMAGE) which is accessible as an R package. The overarching goal of the project is to infer genotypes (and thus other cool health information) from DNA methylation data on human populations that are transitioning from subsistence-level living to urban living.
 
