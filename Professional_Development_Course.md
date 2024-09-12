@@ -25,4 +25,28 @@ Reflection on the process you used last week, how can you make the process work 
 
 Last week was very much a hodge-podge of me reading lots of information and going off on tangents. I think completing the official project proposal and adding in week by week details will help me focus future weeks to be more productive. 
 
+**Week 3 - 9/11/2024**
+
+What did you do last week?
+
+  Last week I did a lot of research into potential project ideas. This led me to reach out to a contact at an evolutionary genetics lab and set up a volunteer opportunity with them. 
+
+What do you plan to do this week?
+
+  This week I met with my lab contact to get an idea of how to start prepping to work on the project. My plan for the rest of week will be spent learning R basics, reading some research papers, and watching youtube videos on epigenetics and DNA methylation data pipelines. 
+  
+  Write and submit proposal
+
+  Try to get a theme on my website (troubleshooting why there is no theme button like the tutorial says there should be)
+
+Are there any impediments in your way?
+
+  Currently waiting to get added to a server so I can start looking at the data I'm going to be working with 
+
+  Feeling a little underprepared just jumping into a bioinformatics project with no prior experience 
+
+Reflection on the process you used last week: How can you improve it?
+
+  Last week I was still in the indecisive phase so I am glad that this week I have a steady plan started. It feels good to start taking tangible action. Going forward, I think setting realistic weekly goals is going to be key. 
+
 
