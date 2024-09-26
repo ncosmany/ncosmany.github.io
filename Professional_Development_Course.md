@@ -51,3 +51,18 @@ My goal for this week was to orient myself with the course expectations and to s
 *Reflection on the process used last week, and how can I make the process work better?* <br>
   I think last week I tried to cram a lot of new information at once. Going forwards, I will break up my time across multiple days so that I have a chance to process information and understand it better. 
 
+**Week 5 - 9/26/2024**
+
+*What did I do last week?* <br>
+   Last week I got connected to the group computer cluster and watched all the training videos on how the cluster works, using Bash, and scheduling jobs. The rest of my time I spent getting used to Bash, setting up my directories, and started looking at the first steps of processing the data. I am starting from BAM files (so the raw sequencing reads have already gone through some quality control and alignment). 
+
+*What do I plan to do this week?* <br>
+  This week I am working on taking those BAM files and sorting them, then converting into a .vcf file to extract genotypes. This is all done with premade modules (samtools, cgmaptools) so I am mostly reading documentation trying to figure out how to install/load these modules and what arguments they need. 
+
+*Are there any impediments in my way?* <br>
+  I have an example script to follow so that has been my guideline while doing all this. The hardest part has been reading through the documentation to figure out what arguments to use. It also takes like 20-30 minutes to run one command on one file so it's slow going. But eventually when I get the scripts figured out I will send a big batch to the scheduler and I won't have to sit there and wait.  
+
+*Reflection on the process used last week and how can I make the process work better?* <br>
+  Last week was still a lot of logistics just orienting myself to the project and the cluster. This week I have started writing code so I'm excited to see how that goes and come up with some strategies going forward. 
+
+
