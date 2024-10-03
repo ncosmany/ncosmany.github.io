@@ -65,4 +65,19 @@ My goal for this week was to orient myself with the course expectations and to s
 *Reflection on the process used last week and how can I make the process work better?* <br>
   Last week was still a lot of logistics just orienting myself to the project and the cluster. This week I have started writing code so I'm excited to see how that goes and come up with some strategies going forward. 
 
+**Week 6 - 10/3/2024**
+
+*What did I do last week?* <br>
+Last week I worked more on processing the bam files into a vcf format. The steps I am working on is: 1) sorting bam file, converting bam file to atcg, extracting SNPs from atcg, then filtering for good quality reads. This is all done with modules so it's a couple file paths and then about 10 lines of code, so not that much but it's taking forever to get it working. Last week I got a file to run all the way through and that was exciting until I realized my final file only included 2 chromosomes. 
+
+*What do I plan to do this week?* <br>
+This week I am working on troubleshooting why my final file only has 2 out of 23 chromosomes. I'm trying a couple different troubleshooting methods but it's really slow going since everything takes so long to run. While I wait for things to run, I am working on read ahead in the example scripts and getting ready for next steps. 
+
+*Are there any impediments in my way* <br>
+Troubleshooting takes forever. Running one file takes like 15 hours and if something goes wrong I make a change and then wait another 15 hours. Very slow going. 
+
+*Relfection on the process used last week and how I can make the process work better?* <br>
+Last week I mostly ran things interactively which was not the best strategy. Now I am taking advantage of scheduling jobs so I don't accidentally lose progress if my computer turns off. I'm wondering if running with proper resources might fix my incomplete file problem. 
+
+
 
