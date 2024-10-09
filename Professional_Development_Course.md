@@ -80,7 +80,7 @@ Troubleshooting takes forever. Running one file takes like 15 hours and if somet
 *Relfection on the process used last week and how I can make the process work better?* <br>
 Last week I mostly ran things interactively which was not the best strategy. Now I am taking advantage of scheduling jobs so I don't accidentally lose progress if my computer turns off. I'm wondering if running with proper resources might fix my incomplete file problem. 
 
-**Week 6 - 10/8/2024**
+**Week 7 - 10/8/2024**
 
 *What did I do last week?* <br>
 Last week I did a lot of troubleshooting - still working on initial processing of bams -> ATCGmap -> vcfs. I played around with scheduling jobs to carry out these computations and it was a lot less intimidating than I thought. The hardest part was getting the timing and memory allocation correct. After a lot of troubleshooting, I realized that my previous strategy was using way to much memory. Basically I was running the program with an allocated 50GB and was using approximately 55GB (I now know how to look up all this information) and so the program was completing but files were just barely getting cut short which made it hard to detect but was causing a variety of issues farther down the line. Lots of learning last week. 
