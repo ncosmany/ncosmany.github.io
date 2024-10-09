@@ -80,5 +80,22 @@ Troubleshooting takes forever. Running one file takes like 15 hours and if somet
 *Relfection on the process used last week and how I can make the process work better?* <br>
 Last week I mostly ran things interactively which was not the best strategy. Now I am taking advantage of scheduling jobs so I don't accidentally lose progress if my computer turns off. I'm wondering if running with proper resources might fix my incomplete file problem. 
 
+**Week 6 - 10/8/2024**
+
+*What did I do last week?* <br>
+Last week I did a lot of troubleshooting - still working on initial processing of bams -> ATCGmap -> vcfs. I played around with scheduling jobs to carry out these computations and it was a lot less intimidating than I thought. The hardest part was getting the timing and memory allocation correct. After a lot of troubleshooting, I realized that my previous strategy was using way to much memory. Basically I was running the program with an allocated 50GB and was using approximately 55GB (I now know how to look up all this information) and so the program was completing but files were just barely getting cut short which made it hard to detect but was causing a variety of issues farther down the line. Lots of learning last week. 
+
+*What do I plan to do this week?* <br>
+To overcome the memory issue, I am going back to step 1 and breaking my practice sample down into individual chromosomes. That way it's less work per round so I won't overrun the memory. Everything seems to be going well so far. Mostly just working on writing a "split" program to get all the chromosomes in their own files and then rewriting everything I had previously written to now iterate through all the chromosomes one by one before merging them back together once the heavy stuff is done. So far it's going well. Again just need to calculate the right time and memory for these and hopefully I'll be able to run the full list of samples through this process soon. I've just been doing all this troubleshooting on one file so I'm going to meet with Dr. Watowich this week to chat about how to scale it up to run on the 4000 sample files they have.  
+
+*Are there any impediments in my way* <br>
+Same as before, troubleshooting is just a slow process, but I'm learning so much. Also understanding large memory is a new concept for me but very good to learn. 
+
+*Relfection on the process used last week and how I can make the process work better?* <br>
+Breaking things up by chromosome is helping with troubleshooting because I can see specifically which files are getting corrupted. I've never really had to consider memory usage before so this has been a good practice in understanding how/why I need to take memory into consideration. 
+
+*Life Long Learning Task* <br>
+I took a look around the Career Services website and spent some time reading through their interview tips. I have seen multiple people mention the STAR method but never really looked into it myself. Career services has some good interview tips and links on the STAR method and lots of practice interview questions. I spent some time giving practice answers out loud for some of the questions they listed. I found it's pretty hard to keep it short and sweet (I tend to ramble in interviews) so that's something I will work on moving forward. I think the STAR method gives a good outline of how to narrow down your story and focus on the important points. I've sent out some job apps so I'm hoping to hear back soon and hopefully get to practice some of these interview techniques in real life! 
+
 
 
