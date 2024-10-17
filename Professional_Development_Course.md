@@ -97,5 +97,17 @@ Breaking things up by chromosome is helping with troubleshooting because I can s
 *Life Long Learning Task* <br>
 I took a look around the Career Services website and spent some time reading through their interview tips. I have seen multiple people mention the STAR method but never really looked into it myself. Career services has some good interview tips and links on the STAR method and lots of practice interview questions. I spent some time giving practice answers out loud for some of the questions they listed. I found it's pretty hard to keep it short and sweet (I tend to ramble in interviews) so that's something I will work on moving forward. I think the STAR method gives a good outline of how to narrow down your story and focus on the important points. I've sent out some job apps so I'm hoping to hear back soon and hopefully get to practice some of these interview techniques in real life! 
 
+**Week 7 - 10/8/2024**
 
+*What did I do last week?* <br>
+Last week I finalized my first set of scripts. To overcome memory issues, I broke each sample by chromosome and then ran each one through the steps and that has worked well. Once I got that working, I got approval to run the whole batch. Before submitting a "job" you have to specify runtime and memory so I did some experimenting to make sure I set the right amount. That all went relatively well (some jobs timed out and needed to be rerun) and the files started processing. I got all 4000 samples through step 1 (sort) and then immediately maxed out the available space on step 2 (split). 
+
+*What do I plan to do this week?* <br>
+To work within storage constraints, I am now going to process in batches of 1000 (I went back and deleted some of what I already output). I'll run all files through the pipeline successfully, then delete unnecessary intermediate files, and then do the next 1000. This should allow me to get through all 4000 without needing the lab to go through the process of buying more storage space. 
+
+*Are there any impediments in my way* <br>
+Trying to play tetris with storage space. I also don't want to delete something that I may need later on so I'm trying to look ahead at the next steps but it gets significantly more complicated after this so it's hard to tell. 
+
+*Relfection on the process used last week and how I can make the process work better?* <br>
+I think I made good adjustments and I have a good system in place to monitor jobs, submit more jobs, and check for errors. 
 
