@@ -97,7 +97,7 @@ Breaking things up by chromosome is helping with troubleshooting because I can s
 *Life Long Learning Task* <br>
 I took a look around the Career Services website and spent some time reading through their interview tips. I have seen multiple people mention the STAR method but never really looked into it myself. Career services has some good interview tips and links on the STAR method and lots of practice interview questions. I spent some time giving practice answers out loud for some of the questions they listed. I found it's pretty hard to keep it short and sweet (I tend to ramble in interviews) so that's something I will work on moving forward. I think the STAR method gives a good outline of how to narrow down your story and focus on the important points. I've sent out some job apps so I'm hoping to hear back soon and hopefully get to practice some of these interview techniques in real life! 
 
-**Week 7 - 10/8/2024**
+**Week 8 - 10/16/2024**
 
 *What did I do last week?* <br>
 Last week I finalized my first set of scripts. To overcome memory issues, I broke each sample by chromosome and then ran each one through the steps and that has worked well. Once I got that working, I got approval to run the whole batch. Before submitting a "job" you have to specify runtime and memory so I did some experimenting to make sure I set the right amount. That all went relatively well (some jobs timed out and needed to be rerun) and the files started processing. I got all 4000 samples through step 1 (sort) and then immediately maxed out the available space on step 2 (split). 
@@ -111,3 +111,16 @@ Trying to play tetris with storage space. I also don't want to delete something 
 *Relfection on the process used last week and how I can make the process work better?* <br>
 I think I made good adjustments and I have a good system in place to monitor jobs, submit more jobs, and check for errors. 
 
+**Week 9 - 10/23/2024**
+
+*What did I do last week?* <br>
+Last week I continued my battle with memory issues. In my first attempt, I had started to run the scripts (for turning bams into vcfs) but ended up running out of space...again. I did some restrategizing and decided that instead of running all the files one step at a time, I will now run one file at a time through all the steps. This means I can go back and delete the intermediates immediately instead of waiting for 4000 intermediate files to generate then move onto the next step then go back and delete. 
+
+*What do I plan to do this week?* <br>
+ This week, I am mostly just waiting for all these files to run. I'm at about 500/4000 so it's probably going to be another week or two. In the meantime, I am looking at next steps. The immediate next step is a list of filtering steps that I think that will be pretty straightforward to figure out once I read some more module documentation. I'm also realizing that I'm getting absorbed in the coding steps that I've been tasked with and I am becoming a little disconnected with the bigger picture. While I wait for these files to run, I am going to focus on reading some more articles and trying to rebuild the context around what I'm doing. 
+
+*Are there any impediments in my way* <br>
+Sometimes a file times out and I have to find out which one it was and rerun it. I've been told this is normal and probably something to do with malfunctioning nodes (?). It's not that big of a deal, moreso an inconveinence.
+
+*Relfection on the process used last week and how I can make the process work better?* <br>
+The "run each thing through all the steps" instead of "run all the things through one step at a time" is definitely a better approach. 
