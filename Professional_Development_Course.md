@@ -124,3 +124,17 @@ Sometimes a file times out and I have to find out which one it was and rerun it.
 
 *Relfection on the process used last week and how I can make the process work better?* <br>
 The "run each thing through all the steps" instead of "run all the things through one step at a time" is definitely a better approach. 
+
+**Week 10 - 10/31/2024**
+
+*What did I do last week?* <br>
+ Last week I was waiting for files to run, so I didn't have much coding work to do. I did test run some scripts for future filtering steps, but I need to wait for everything to finish running before going further. I took some time to go back and read through more detail about what the modules that I'm using are actually doing. Also reread some articles that make a little more sense now that I have a better idea of what is going on. 
+
+*What do I plan to do this week?* <br>
+Still waiting for things to run this week. Almost halfway. I'm planning to use my time this week to do more background reading and look into other bioinformatics tools.
+
+*Are there any impediments in my way* <br>
+Just waiting. 
+
+*Relfection on the process used last week and how I can make the process work better?* <br>
+I appreciated the opportunity to slow down and reabsorb some information.
