@@ -77,7 +77,7 @@ This week I am working on troubleshooting why my final file only has 2 out of 23
 *Are there any impediments in my way* <br>
 Troubleshooting takes forever. Running one file takes like 15 hours and if something goes wrong I make a change and then wait another 15 hours. Very slow going. 
 
-*Relfection on the process used last week and how I can make the process work better?* <br>
+*Reflection on the process used last week and how I can make the process work better?* <br>
 Last week I mostly ran things interactively which was not the best strategy. Now I am taking advantage of scheduling jobs so I don't accidentally lose progress if my computer turns off. I'm wondering if running with proper resources might fix my incomplete file problem. 
 
 **Week 7 - 10/8/2024**
@@ -91,7 +91,7 @@ To overcome the memory issue, I am going back to step 1 and breaking my practice
 *Are there any impediments in my way* <br>
 Same as before, troubleshooting is just a slow process, but I'm learning so much. Also understanding large memory is a new concept for me but very good to learn. 
 
-*Relfection on the process used last week and how I can make the process work better?* <br>
+*Reflection on the process used last week and how I can make the process work better?* <br>
 Breaking things up by chromosome is helping with troubleshooting because I can see specifically which files are getting corrupted. I've never really had to consider memory usage before so this has been a good practice in understanding how/why I need to take memory into consideration. 
 
 *Life Long Learning Task* <br>
@@ -108,7 +108,7 @@ To work within storage constraints, I am now going to process in batches of 1000
 *Are there any impediments in my way* <br>
 Trying to play tetris with storage space. I also don't want to delete something that I may need later on so I'm trying to look ahead at the next steps but it gets significantly more complicated after this so it's hard to tell. 
 
-*Relfection on the process used last week and how I can make the process work better?* <br>
+*Reflection on the process used last week and how I can make the process work better?* <br>
 I think I made good adjustments and I have a good system in place to monitor jobs, submit more jobs, and check for errors. 
 
 **Week 9 - 10/23/2024**
@@ -136,5 +136,19 @@ Still waiting for things to run this week. Almost halfway. I'm planning to use m
 *Are there any impediments in my way* <br>
 Just waiting. 
 
-*Relfection on the process used last week and how I can make the process work better?* <br>
+*Reflection on the process used last week and how I can make the process work better?* <br>
 I appreciated the opportunity to slow down and reabsorb some information.
+
+**Week 11 - 11/6/2024**
+
+*What did I do last week?* <br>
+While waiting for things to run, I worked on previewing some of the next steps to get files prepped for QC, mostly working with just one sample file to make sure I have the syntax right. I also did some more reading on general background info like the lab techniques that are done to get this data. There was also a moment when the storage overflowed (not my fault this time haha) and I had to do some damage control - mostly just figure out what got cut off and go back and restart from that point. 
+
+*What do I plan to do this week?* <br>
+Still waiting for files to run. We're just about halfway so probably another 2-3 weeks to go if things keep going at this rate. I'm working on running the next merge/filtering steps on a small collection of 5 files that are merged (eventually all 4000 will be merged and go through these same steps). It's slow going but I'm hoping to be prepared for when the full batch of files is ready. 
+
+*Are there any impediments in my way* <br>
+Waiting and waiting. 
+
+*Reflection on the process used last week and how I can make the process work better?* <br>
+I think I am making good use of my time while waiting and will continue to try to do productive things to prep for the next steps. 
