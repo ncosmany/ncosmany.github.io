@@ -152,3 +152,20 @@ Waiting and waiting.
 
 *Reflection on the process used last week and how I can make the process work better?* <br>
 I think I am making good use of my time while waiting and will continue to try to do productive things to prep for the next steps. 
+
+
+**Week 12 - 11/13/2024**
+
+*What did I do last week?* <br>
+Last week I worked more on the preparing the data for QC by looking into the filtering steps and trying them out on some practice data. I'm still waiting for the big batch of VCF files to finish. 
+
+*What do I plan to do this week?* <br>
+This week I'm playing around more with the filtering steps and changing up the thresholds of what's considered "quality". Two things we have to consider are keeping high quality samples and sites. With 4000 samples eventually going to be compared, we have to consider that the thresholds might need to be more lenient. For example, if we had 20 samples total we might want to filter to keep samples that cover at least 90% of the total sites observed (by observed I mean ones where we were able to get a confident genotype read) across all samples. But with so many samples there are naturally just more sites so we're thinking about setting the threshold to 75%. I also realized I need to do some little tasks like rehead the files and adjust the order of filtering so I'll work on those things this week.
+
+*Are there any impediments in my way* <br>
+Waiting for things to run. 
+
+*Reflection on the process used last week and how I can make the process work better?* <br>I 
+think things are going well. 
+
+
