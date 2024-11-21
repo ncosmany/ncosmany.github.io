@@ -169,3 +169,16 @@ Waiting for things to run.
 think things are going well. 
 
 
+**Week 13 - 11/21/2024**
+
+*What I did last week:* <br>
+Last week I wrote code to rehead my vcf files once they finish running. I also changed the filtering thresholds and read about filtering norms - example: filtering for sample quality before filtering for site quality. Finally, I checked in on the large batch of files that have been running for weeks to rerun any that timed out. 
+
+*What I plan to do this week:* <br>
+This week I'm starting to think about timing and scaling my filtering steps to work on the 4000 merged files when they're ready. I'm currently testing it out on 5 merged files and trying out different approaches to see what goes the fastest. I've been reading a lot about a new (new to me) tool called plink. There's some weirdness with file formats and converting back and forth so I'm working on how to sort all that out but plink definitely seems to filter faster than my previous approach.
+
+*Impediment(s) in my way:* <br>
+Long run times make trial and error take forever.
+
+*Reflections on the process I used last week:* <br>
+I think it's good to switch it up and try out different methods and learn about new tools. 
