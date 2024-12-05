@@ -182,3 +182,19 @@ Long run times make trial and error take forever.
 
 *Reflections on the process I used last week:* <br>
 I think it's good to switch it up and try out different methods and learn about new tools. 
+
+**Week 14 - 12/4/2024**
+
+*What I did last week:* <br>
+Last week I continued to monitor my big batch of files, rerunning when they timed out or cancelled. I also played around with filtering steps on my sample set looking at Hardy Weinberg Equilibruim and Linkage Disequilibrium filters. Turns out my sample set is too small for these to acccurately work so I'm just going to wait until the big batch is done. I have a good idea conceptually of what needs to happen so I think this is fine. 
+
+*What I plan to do this week:* <br>
+The big batch of vcf files finished yesterday!!! Very excited. So this week I'm working on double checking that everything went as planned. Then it's time to index, merge, and reheader everything. I've already practiced these steps on a small sample so I just need to scale it up for the large batch now. 
+
+*Impediment(s) in my way:* <br>
+Everything is going well. 
+
+*Reflections on the process I used last week:* <br>
+I think choosing to stop playing around with the same set was a good idea. I learned as much as I could about the next steps but now it's going to be up to seeing how the large merged file reacts to all the filtering steps and adjust accordingly.
+
+
