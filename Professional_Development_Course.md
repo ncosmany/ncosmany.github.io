@@ -197,4 +197,18 @@ Everything is going well.
 *Reflections on the process I used last week:* <br>
 I think choosing to stop playing around with the same set was a good idea. I learned as much as I could about the next steps but now it's going to be up to seeing how the large merged file reacts to all the filtering steps and adjust accordingly.
 
+**Week 15 - 12/9/2024**
+
+*What I did last week:* <br>
+Last week I started the quality control portion of my project. With the files finished running, I need to merge them into one big file and then reheader them all to reflect the sample they belong to. To do that, they need to first be indexed. So last week I indexed and then started merging. After a few days of running, it turns out I did not give the merge nearly enough memory or time so that ended up failing.
+
+*What I plan to do this week:* <br>
+In the first merge attempt I gave the job 200G of memory and 76 hours to run and it timed out and the resulting file was way too small. I have done some invesigating and I think the bcftools merge command requires all files to be open at once in memory (~ 3.5T) so I am trying to find a more efficient way to do this. I found a forum post that suggests doing it in smaller batches and then merging the batches so I will be working on that this week. As a backup, I could just schedule a super high memory and time job but that would probably take forever to be scheduled and also I still have no concept of how much time it would take. It would be unfortunate to wait a week for it to schedule, wait 2 weeks for it to run, only for it to fail again. 
+
+*Impediment(s) in my way:* <br>
+Understanding how to work with big files is an ongoing struggle.
+
+*Reflections on the process I used last week:* <br>
+I made a good attempt last week and this week I have a better idea. 
+
 
